@@ -13,3 +13,7 @@
     position: absolute;
     z-index: -1;
 }
+
+#wrapper-vid2 {
+    margin-left: 350px;
+}
